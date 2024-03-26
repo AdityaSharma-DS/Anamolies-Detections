@@ -25,7 +25,3 @@ To perform anomaly detection in search queries , we  can follow these process:
 6. **Anomaly Detection**:
    - Apply the trained model to detect anomalies in the test data.
    - Generate anomaly scores or labels for each search query.
-
-7. **Evaluation**:
-   - Evaluate the performance of the anomaly detection model using appropriate metrics such as precision, recall, F1-score, or area under the ROC curve (AUC-ROC).
-   - Adjust parameters or consider alternative models if necessary to improve performance.
